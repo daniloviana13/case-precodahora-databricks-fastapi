@@ -126,7 +126,7 @@ These are used by:
 
 <img src="img/data_resume.png" alt="Architecture / Pipeline Overview" width="900">
 
-[Open Full Config](img/datafull.png)
+[Open Full Config](img/data_full.png)
 
 ---
 
