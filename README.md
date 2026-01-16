@@ -341,4 +341,4 @@ Below are a few representative dashboard examples. Many other dashboards I’ve 
 
 <img src="img/risco.png" alt="Architecture / Pipeline Overview" width="900">
 <img src="img/mandados.png" alt="Architecture / Pipeline Overview" width="900">
-<img src="img/acidentes2.png" alt="Architecture / Pipeline Overview" width="900">
+<img src="img/acidentes3.png" alt="Architecture / Pipeline Overview" width="900">
