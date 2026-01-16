@@ -1,0 +1,22 @@
+{
+  "run_id": "7766e40b-9166-4271-9644-858a0b8e4049",
+  "collected_at_utc": "2026-01-16T15:09:32+00:00",
+  "anp": "DIESEL",
+  "base_url": "https://precodahora.ba.gov.br/produtos/",
+  "out_root": "./raw_out\\source=precodahora\\anp=DIESEL\\dt=2026-01-16\\run_id=7766e40b-9166-4271-9644-858a0b8e4049",
+  "data_file": "data.jsonl",
+  "query": {
+    "horas": 72,
+    "latitude": -12.97111,
+    "longitude": -38.51083,
+    "raio": 100,
+    "ordenar": "preco.asc",
+    "pagina": 1
+  },
+  "response_stats": {
+    "totalPaginas_reported": 4,
+    "totalRegistros_reported": 1073,
+    "registrosdaPagina_reported": 25,
+    "rows_written": 25
+  }
+}

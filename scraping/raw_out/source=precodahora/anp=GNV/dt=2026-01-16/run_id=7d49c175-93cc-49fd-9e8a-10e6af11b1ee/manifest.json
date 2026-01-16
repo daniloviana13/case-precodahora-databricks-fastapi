@@ -1,0 +1,22 @@
+{
+  "run_id": "7d49c175-93cc-49fd-9e8a-10e6af11b1ee",
+  "collected_at_utc": "2026-01-16T15:09:30+00:00",
+  "anp": "GNV",
+  "base_url": "https://precodahora.ba.gov.br/produtos/",
+  "out_root": "./raw_out\\source=precodahora\\anp=GNV\\dt=2026-01-16\\run_id=7d49c175-93cc-49fd-9e8a-10e6af11b1ee",
+  "data_file": "data.jsonl",
+  "query": {
+    "horas": 72,
+    "latitude": -12.97111,
+    "longitude": -38.51083,
+    "raio": 100,
+    "ordenar": "preco.asc",
+    "pagina": 1
+  },
+  "response_stats": {
+    "totalPaginas_reported": 3,
+    "totalRegistros_reported": 75,
+    "registrosdaPagina_reported": 25,
+    "rows_written": 25
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "run_id": "8ef8c4a9-98bb-4848-b940-0248f9d6dc19",
+  "collected_at_utc": "2026-01-16T16:47:27+00:00",
+  "anp": "ETANOL",
+  "base_url": "https://precodahora.ba.gov.br/produtos/",
+  "out_root": "./raw_out\\source=precodahora\\anp=ETANOL\\dt=2026-01-16\\run_id=8ef8c4a9-98bb-4848-b940-0248f9d6dc19",
+  "data_file": "data.jsonl",
+  "query": {
+    "horas": 72,
+    "latitude": -12.97111,
+    "longitude": -38.51083,
+    "raio": 100,
+    "ordenar": "preco.asc",
+    "pagina": 1
+  },
+  "response_stats": {
+    "totalPaginas_reported": 4,
+    "totalRegistros_reported": 735,
+    "registrosdaPagina_reported": 25,
+    "rows_written": 25
+  }
+}
